@@ -41,7 +41,7 @@ tesco-nlp-sentiment-topic-modeling/
 ├── data/                   # Raw and cleaned review datasets
 ├── notebooks/              # Jupyter notebooks for scraping and analysis
 ├── src/                    # Python scripts for preprocessing, modeling, etc.
-├── Tesco_visualisation/    # Plots, charts, and word clouds
+├── Tesco_visualisations/    # Plots, charts, and word clouds
 
 
 ## 📌 Key Insights
