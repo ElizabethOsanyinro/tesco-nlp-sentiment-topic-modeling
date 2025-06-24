@@ -1,0 +1,26 @@
+# Core
+pandas
+numpy
+
+# NLP & Topic Modeling
+nltk
+spacy
+gensim
+
+# Sentiment Analysis
+vaderSentiment
+transformers
+torch
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+pyLDAvis
+
+# Web Scraping
+requests
+beautifulsoup4
+
+# Evaluation
+scikit-learn
